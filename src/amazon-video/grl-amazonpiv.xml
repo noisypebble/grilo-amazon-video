@@ -1,0 +1,10 @@
+<plugin>
+  <info>
+    <name>Amazon Video</name>
+    <module>libgrlamazonvideo</module>
+    <description>A plugin for Amazon Prime Instant Videos.</description>
+    <author>Dusty Little</author>
+    <license>LGPL</license>
+    <site>http://www.toyatech.net/grilo/amazon-video</site>
+  </info>
+</plugin>
